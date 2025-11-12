@@ -6,8 +6,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of mypkgr is to learn how to create a R package and to use
-github.
+Is there any conflict ??? The goal of mypkgr is to learn how to create a
+R package and to use github.
 
 ## Installation
 
